@@ -1,8 +1,8 @@
 # 🎢Power_BI_Projects
-Repositório criado para fazer upload de projetos do Power BI e esquemas de dados relacionados.
+Repository created to upload Power BI projects and related data schemas.
 
-## Bases de Dados Utilizadas para o Projeto da DIO
-As bases de dados utilizadas foram fornecidas pela Expert da DIO Juliana Mascarenhas, para acessar o repositório central onde constam outros arquivos, incluindo material de apoio basta [clicar aqui](https://github.com/julianazanelatto/power_bi_analyst.git).
+## Databases Used for the DIO Project
+The databases used were provided by DIO Expert Juliana Mascarenhas. To access the central repository where other files are located, including support material, simply [click here](https://github.com/julianazanelatto/power_bi_analyst.git).
 
-### ⚠️ Atenção ⚠️
-Obs: Demais projetos ficaram na pasta livre dentro deste repositório de livre acesso a outros desenvolvedores.
+### ⚠️ Attention ⚠️
+Note: Other projects are in the free folder within this repository, freely accessible to other developers.
